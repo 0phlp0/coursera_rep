@@ -3,3 +3,4 @@ Git Befehle
 status
 add "directory" - Mark to commit
 commit -m "Text" - Commit (with message)
+push - push commits to github.com
