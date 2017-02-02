@@ -21,6 +21,7 @@ section{
 .section_box{
 	position: relative;
 	background-color: grey;
+  text-align: justify;
 	border: 1px solid black;
 	margin: 0px 15px 30px 15px;
 }
